@@ -5,4 +5,4 @@ https://course.spacy.io/en/
 https://guide.allennlp.org/
 https://www.nltk.org/book/
 https://web.stanford.edu/class/cs224n/
-
+https://github.com/pythonlessons/mltu/tree/main/Tutorials/01_image_to_word
