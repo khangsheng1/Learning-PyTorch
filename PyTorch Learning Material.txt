@@ -1,0 +1,8 @@
+https://d2l.ai/index.html
+https://course.fast.ai/
+https://huggingface.co/learn/nlp-course/chapter1/1
+https://course.spacy.io/en/
+https://guide.allennlp.org/
+https://www.nltk.org/book/
+https://web.stanford.edu/class/cs224n/
+
