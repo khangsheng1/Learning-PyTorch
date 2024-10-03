@@ -8,3 +8,4 @@ https://web.stanford.edu/class/cs224n/
 https://github.com/pythonlessons/mltu/tree/main/Tutorials/01_image_to_word
 https://academictorrents.com/details/3d0b4f09080703d2a9c6be50715b46389fdb3af1 - reading test in the wild
 https://www.kaggle.com/datasets/naderabdalghani/iam-handwritten-forms-dataset - hand writing recognition dataset
+    https://www.kaggle.com/code/hamiddamadi/handwritten-text-recognition-iam
